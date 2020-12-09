@@ -15,7 +15,6 @@ let myShows = [
 'Francis varghese',
 'Jeyasivani.P (Guest) ',
 'Nagarajan B (Guest) ',
-'Rajendra (Trainer) (Guest) ',
 'Rebekah V Mathew ',
 'sharankumar (Guest) ',
 'shreya (Guest) ',
