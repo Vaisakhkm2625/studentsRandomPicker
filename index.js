@@ -1,3 +1,34 @@
-let myShows = ['Bones', 'Psych', 'Big Bang Theory', 'Mad Men', 'Breaking Bad', 'Modern Family', 'Game of Thrones', 'Dexter'];
+let myShows = [
+  'Adarsh shaju B (Guest) ',
+'Adhersh R V ',
+'Anand Prasad Akula' ,
+'Ananya S (Guest) ',
+'Anavadya S ',
+'Anu Krishna ',
+'Aparajithan S (Guest) ',
+'Ardra R Pillai' ,
+'Ashish George (Guest) ',
+'Ashish Katta ',
+'Bala Ajay Sai Kumar Chittemty' ,
+'Chintalapalli Ganga Bhavani ',
+'Devi Rongala ',
+'Francis varghese',
+'Jeyasivani.P (Guest) ',
+'Nagarajan B (Guest) ',
+'Rajendra (Trainer) (Guest) ',
+'Rebekah V Mathew ',
+'sharankumar (Guest) ',
+'shreya (Guest) ',
+'Sowmya Gajjala ',
+'Sravanthi Nimmakuri ',
+'swaroop (Guest) ',
+'T RAVITEJA (Guest)' ,
+'Tonystephenraj G ',
+'Vaisakh k m ',
+'Venkata Eswara Naveen Naidu ',
+'Vrishali R ',
+'Y.BHAVANA REDDY (Guest) ',
+'Yashvardhan Verma '
+  ];
 let show = myShows[Math.floor(Math.random() * myShows.length)];
 alert(show)
